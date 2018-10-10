@@ -1,4 +1,4 @@
-# CookiesPool / Cookies池
+
 
 可扩展的Cookies池，目前对接了新浪微博，可自行扩展其他站点
 
@@ -104,3 +104,7 @@ Retrying:  1400009488 Count:  5
 成功获取到Cookies
 Saving Cookies to Redis uva68312006hao@163.com {"SUHB": "0cS3YKcgWrDRsV", "SUB": "_2A250AasnDeThGeNJ6FQU8y7PwzWIHXVXDTVvrDV6PUJbktBeLRfukW0wFLR2922NnApkDOZb_eNrRfNBZQ..", "SUBP": "0033WrSXqPxfM725Ws9jqgMF55529P9D9W5H8du8O9J-.X.2Zd-6LbEK5JpX5o2p5NHD95QfS0ecSKe7e0n4Ws4Dqcj.i--fiK.7iKn4i--ci-z7i-zRi--fi-2fiK.ci--4i-2pi-i2", "SCF": "AnPRL-vKWx_-0LWAO4Mk79GSyD6FxNqsFzhSNFOZI1MxKni8Ok7C3thzDOuIdEdh-0SvYb25zbF-znxYY_Z5hK4.", "SSOLoginState": "1493556087", "_T_WM": "b2d2d84c5aafcc02c0dac2faa4acc43f", "ALF": "1496148083"}
 ```
+=======
+# cookiesPool-weibo
+新浪微博cookie池动态维护
+>>>>>>> 865d9cde2998f9375cc86c2a6146352df670bec8
